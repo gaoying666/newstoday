@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0
+}
+html{
+  font-family: "微软雅黑";
+  font-size: 16px;
+}
+a{
+  text-decoration: none;
+  color:#42B983
+}
+
+/* stylus初始时不存在的元素 */
+#topiccontent .markdown-text {
+  line-height: 1.5
+}
+.markdown-text img{
+  display: block;
+  width: 100%
+}
